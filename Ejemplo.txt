@@ -1,0 +1,2 @@
+Es un ejemplo para comprobar status en Git Bash.
+Línea modificada.
