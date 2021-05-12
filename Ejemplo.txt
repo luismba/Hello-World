@@ -1,2 +1,6 @@
 Es un ejemplo para comprobar status en Git Bash.
+Ahora esta por el medio, compruebo diff con otra más.
 Línea modificada.
+
+Modificación para comprobar con diff en git bash. Debería incluir 3 
+líneas más. Cambios desde GitBash.
